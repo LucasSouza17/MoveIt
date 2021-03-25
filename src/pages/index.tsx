@@ -17,8 +17,6 @@ interface HomeProps {
   challengesCompleted: number
 }
 
-//aaaaaaaaaaaaa
-
 export default function Home(props: HomeProps) {
 
   return (
